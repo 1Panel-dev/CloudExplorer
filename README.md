@@ -24,7 +24,7 @@ CloudExplorer Lite 脱胎于飞致云创始软件产品 CloudExplorer 多云管�
 
 **学习资料**
 
--   [在线文档](https://fit2cloud.com/cloudexplorer-lite/docs/)
+-   [在线文档](https://docs-cloudexplorer-lite.fit2cloud.com/)
 
 ## 技术栈
 
