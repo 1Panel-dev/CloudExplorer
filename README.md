@@ -1,27 +1,14 @@
-<p align="center"><a href="https://fit2cloud.com/cloudexplorer-lite/index.html
-        "><img src="https://fit2cloud.com/cloudexplorer-lite/images/CloudExplorer-Lite-logo.svg" alt="cloudexplorer-lite" width="300px"  /></a></p>
-        <h3 align="center">开源的轻量级云管平台</h3>
-        <p align="center">
-          <a href="https://www.gnu.org/licenses/old-licenses/gpl-3.0"><img src="https://img.shields.io/github/license/CloudExplorer-Dev/CloudExplorer-Lite?color=%231890FF" alt="License: GPL v3"></a>
-          <a href="https://app.codacy.com/gh/CloudExplorer-Dev/CloudExplorer-Lite?utm_source=github.com&utm_medium=referral&utm_content=CloudExplorer-Dev/CloudExplorer-Lite&utm_campaign=Badge_Grade_Dashboard"><img src="https://app.codacy.com/project/badge/Grade/da67574fd82b473992781d1386b937ef" alt="Codacy"></a>
-          <a href="https://github.com/CloudExplorer-Dev/CloudExplorer-Lite/releases/latest"><img src="https://img.shields.io/github/v/release/CloudExplorer-Dev/CloudExplorer-Lite" alt="Latest release"></a>
-          <a href="https://github.com/CloudExplorer-Dev/CloudExplorer-Lite"><img src="https://img.shields.io/github/stars/CloudExplorer-Dev/CloudExplorer-Lite?color=%231890FF&style=flat-square" alt="Stars"></a>
-        </p>
+<p align="center">
+    <a href="https://fit2cloud.com/cloudexplorer-lite/index.html"><img src="https://fit2cloud.com/cloudexplorer-lite/images/CloudExplorer-Lite-logo.svg" alt="cloudexplorer-lite" width="300px"/></a>
+</p>
+<h3 align="center">开源的轻量级云管平台</h3>
 <hr/>
 
 CloudExplorer Lite 脱胎于飞致云创始软件产品 CloudExplorer 多云管理平台，支持对接纳管主流的公有云和私有云基础设施，提供开箱即用的云主机管理、云账单、运营分析和安全合规等基本功能，同时还可提供强大的扩展能力以满足企业的定制化需求。CloudExplorer Lite 的产品特性是：
 
-- **多云对接**
-  
-CloudExplorer Lite 支持对接纳管市场上主流的公有云和私有云基础设施，包括阿里云、腾讯云、华为云、VMware、OpenStack、Proxmox VE 等。
-
-- **开箱即用**
-
-CloudExplorer Lite 提供了诸多开箱即用的功能，比如云主机管理、云账单、运营分析和安全合规等，能够满足大部分企业在云基础设施管理方面的基本需求。
-
-- **扩展能力**
-
-CloudExplorer Lite 提供了强大的多租户体系和模块化能力，可以满足企业的定制化需求。
+- **多云对接**：CloudExplorer Lite 支持对接纳管市场上主流的公有云和私有云基础设施，包括阿里云、腾讯云、华为云、VMware、OpenStack、Proxmox VE 等。
+- **开箱即用**：CloudExplorer Lite 提供了诸多开箱即用的功能，比如云主机管理、云账单、运营分析和安全合规等，能够满足大部分企业在云基础设施管理方面的基本需求。
+- **扩展能力**：CloudExplorer Lite 提供了强大的多租户体系和模块化能力，可以满足企业的定制化需求。
 
 ## UI 展示
 
